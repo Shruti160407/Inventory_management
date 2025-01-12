@@ -4,10 +4,12 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 
 🚀 Features:
 <br>
-Early Detection: Predict SCA risk using key health indicators.
+<ul>
+<li>Early Detection: Predict SCA risk using key health indicators.</li>
 <br>
-Machine Learning Model: Trained with optimized algorithms for high accuracy.
+<li>Machine Learning Model: Trained with optimized algorithms for high accuracy.</li>
 <br>
-Data Visualization: Insightful charts and graphs to interpret predictions.
+<li>Data Visualization: Insightful charts and graphs to interpret predictions.</li>
 <br>
-User-Friendly Interface: A simple and intuitive interface for healthcare professionals.
+<li>User-Friendly Interface: A simple and intuitive interface for healthcare professionals.</li>
+</ul>
