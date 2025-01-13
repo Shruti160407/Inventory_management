@@ -12,4 +12,10 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 <li>Data Visualization: Insightful charts and graphs to interpret predictions.</li>
 <br>
 <li>User-Friendly Interface: A simple and intuitive interface for healthcare professionals.</li>
+</ul><br>
+🗃️ Dataset<br>
+<ul>
+<li>Source: [Mention the dataset source if public, e.g., Kaggle, UCI Repository]
+</li>
+<li>Size: [Number of records, number of features]</li>
 </ul>
