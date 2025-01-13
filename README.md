@@ -14,9 +14,10 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 <li>User-Friendly Interface: A simple and intuitive interface for healthcare professionals.</li>
 </ul>
 <br>
-<ul>
-   <li>Tech Stack</li>
+
+🛠️Tech Stack
   <br>
+  <ul>
 <li>Languages: Python</li>
   <br>
 <li>Libraries:</li>
