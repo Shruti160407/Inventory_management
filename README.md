@@ -15,19 +15,21 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 </ul>
 <br>
 <ul>
-   Tech Stack
+   <li>Tech Stack</li>
   <br>
-Languages: Python
+<li>Languages: Python</li>
   <br>
-Libraries:
+<li>Libraries:</li>
   <br>
-Scikit-learn
+<ol>
+   <li>Scikit-learn</li>
   <br>
-Pandas
+<li>Pandas</li>
   <br>
-NumPy<br>
-Matplotlib/Seaborn<br>
-TensorFlow/Keras (optional, if using deep learning)<br>
-Frameworks: Flask/Django (if there’s a web app component)<br>
-Tools: Jupyter Notebook, VS Code<br>
+<li>NumPy</li><br>
+<li>Matplotlib/Seaborn</li><br>
+<li>TensorFlow/Keras (optional, if using deep learning)</li><br>
+</ol>
+<li>Frameworks: Flask/Django (if there’s a web app component)</li><br>
+<li>Tools: Jupyter Notebook, VS Code</li><br>
 </ul>
