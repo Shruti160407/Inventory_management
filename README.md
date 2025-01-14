@@ -43,6 +43,6 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 <li>Heart rate</li><br>
 <li>Blood pressure</li><br>
 <li>ECG readings</li><br>
-<li> cardiac history, etc.<li>
+<li> cardiac history, etc.</li>
 </ul>
 <br>
