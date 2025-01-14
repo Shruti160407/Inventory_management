@@ -46,3 +46,9 @@ This project focuses on the prediction of Sudden Cardiac Arrest (SCA) using mach
 <li> cardiac history, etc.</li>
 </ul>
 <br>
+<ul>
+📊 Model Performance
+<br>
+<li>Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC</li>
+<li>Results: [Mention the achieved performance metrics here]</li>
+</ul>
